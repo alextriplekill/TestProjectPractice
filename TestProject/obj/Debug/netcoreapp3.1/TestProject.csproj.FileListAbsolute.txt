@@ -1,0 +1,16 @@
+C:\Users\shevt\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.exe
+C:\Users\shevt\source\repos\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.csprojAssemblyReference.cache
+C:\Users\shevt\source\repos\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfoInputs.cache
+C:\Users\shevt\source\repos\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfo.cs
+C:\Users\shevt\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shevt\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\shevt\source\repos\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.CopyComplete
+C:\Users\shevt\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\chromedriver\chromedriver.exe
+C:\Users\shevt\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.deps.json
+C:\Users\shevt\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.runtimeconfig.json
+C:\Users\shevt\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.runtimeconfig.dev.json
+C:\Users\shevt\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.dll
+C:\Users\shevt\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.pdb
+C:\Users\shevt\source\repos\TestProject\TestProject\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\shevt\source\repos\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.dll
+C:\Users\shevt\source\repos\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.pdb
